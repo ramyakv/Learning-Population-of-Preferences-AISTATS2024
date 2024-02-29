@@ -58,3 +58,7 @@ A dataset involves 7 movies from US, China, and South Korea. We crawled both mov
 2. `reviewer_type`: whether the reviewer is a critic or average audience
 3. `score`: score of the movie
 4. `title`: title of the movie
+
+## Acknowledgement
+
+This work was partially supported by NSF grants NCS-FO 2219903 and NSF CAREER Award CCF 2238876.
